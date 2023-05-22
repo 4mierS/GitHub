@@ -196,3 +196,7 @@ Fork:
 ### 5.1. Merge
 
 - `git merge <Name>` fügt den Branch in den aktuellen Branch ein.
+
+---
+
+![Git](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png)
